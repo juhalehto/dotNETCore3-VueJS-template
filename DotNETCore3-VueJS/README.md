@@ -1,4 +1,5 @@
-# Boileplate-project for .NET Core 3 App with Vue (2.6.10) clientapp. Couldn't find one of these from Visual Studio's project templates, so googled around a bit and tailored one for myself.
+# Project-template for .NET Core 3 App with Vue (2.6.10) clientapp. 
+Couldn't find one of these from Visual Studio's project templates, so googled around a bit and tailored one for myself.
 
 ## Contains
 ```
